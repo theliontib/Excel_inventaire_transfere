@@ -5,6 +5,9 @@
 
 Script Python permettant d’automatiser la gestion d’un inventaire de casques dans un fichier Excel.
 
+Ce projet à été pensé pour une utilisation unique dans le but d'automatiser une tache répétitive.
+Il a été éffectué dans une idée d'apprentissage de script plus complexe en python et guidé par IA (Copilot)
+
 Ce script :
 - ajoute automatiquement les casques dans l’inventaire
 - génère un numéro unique (RA-CQ-XXXX) à partir de RA-CQ-0044
@@ -21,7 +24,7 @@ Ce script :
 - Python
 - xlwings (interaction Excel réel)
 - openpyxl (lecture de données)
-
+-environement virtuel (venv)
 ---
 
 
